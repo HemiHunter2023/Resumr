@@ -1,2 +1,2 @@
-# Resumr
+# Resume
 Resume 
